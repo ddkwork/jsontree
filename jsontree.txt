@@ -1,0 +1,101 @@
+  ─────────────────────────────────────────────────────────
+  │Number              │Type    │Key                 
+  ─────────────────────────────────────────────────────────
+  │1                   │Object  │root_container      
+  ├───1                │Number  │id                  
+  ├───2                │Text    │node_id             
+  ├───3                │Text    │name                
+  ├───4                │Text    │full_name           
+  ├───5                │Boolean │private             
+  ├───2                │Object  │owner               
+  │   ├───1            │Text    │login               
+  │   ├───2            │Number  │id                  
+  │   ├───3            │Text    │node_id             
+  │   ├───4            │Text    │avatar_url          
+  │   ├───5            │Text    │gravatar_id         
+  │   ├───6            │Text    │url                 
+  │   ├───7            │Text    │html_url            
+  │   ├───8            │Text    │followers_url       
+  │   ├───9            │Text    │following_url       
+  │   ├───10           │Text    │gists_url           
+  │   ├───11           │Text    │starred_url         
+  │   ├───12           │Text    │subscriptions_url   
+  │   ├───13           │Text    │organizations_url   
+  │   ├───14           │Text    │repos_url           
+  │   ├───15           │Text    │events_url          
+  │   ├───16           │Text    │received_events_url 
+  │   ├───17           │Text    │type                
+  │   └───18           │Boolean │site_admin          
+  ├───7                │Text    │html_url            
+  ├───8                │Text    │description         
+  ├───9                │Boolean │fork                
+  ├───10               │Text    │url                 
+  ├───11               │Text    │forks_url           
+  ├───12               │Text    │keys_url            
+  ├───13               │Text    │collaborators_url   
+  ├───14               │Text    │teams_url           
+  ├───15               │Text    │hooks_url           
+  ├───16               │Text    │issue_events_url    
+  ├───17               │Text    │events_url          
+  ├───18               │Text    │assignees_url       
+  ├───19               │Text    │branches_url        
+  ├───20               │Text    │tags_url            
+  ├───21               │Text    │blobs_url           
+  ├───22               │Text    │git_tags_url        
+  ├───23               │Text    │git_refs_url        
+  ├───24               │Text    │trees_url           
+  ├───25               │Text    │statuses_url        
+  ├───26               │Text    │languages_url       
+  ├───27               │Text    │stargazers_url      
+  ├───28               │Text    │contributors_url    
+  ├───29               │Text    │subscribers_url     
+  ├───30               │Text    │subscription_url    
+  ├───31               │Text    │commits_url         
+  ├───32               │Text    │git_commits_url     
+  ├───33               │Text    │comments_url        
+  ├───34               │Text    │issue_comment_url   
+  ├───35               │Text    │contents_url        
+  ├───36               │Text    │compare_url         
+  ├───37               │Text    │merges_url          
+  ├───38               │Text    │archive_url         
+  ├───39               │Text    │downloads_url       
+  ├───40               │Text    │issues_url          
+  ├───41               │Text    │pulls_url           
+  ├───42               │Text    │milestones_url      
+  ├───43               │Text    │notifications_url   
+  ├───44               │Text    │labels_url          
+  ├───45               │Text    │releases_url        
+  ├───46               │Text    │deployments_url     
+  ├───47               │Text    │created_at          
+  ├───48               │Text    │updated_at          
+  ├───49               │Text    │pushed_at           
+  ├───50               │Text    │git_url             
+  ├───51               │Text    │ssh_url             
+  ├───52               │Text    │clone_url           
+  ├───53               │Text    │svn_url             
+  ├───54               │Text    │homepage            
+  ├───55               │Number  │size                
+  ├───56               │Number  │stargazers_count    
+  ├───57               │Number  │watchers_count      
+  ├───58               │Text    │language            
+  ├───59               │Boolean │has_issues          
+  ├───60               │Boolean │has_projects        
+  ├───61               │Boolean │has_downloads       
+  ├───62               │Boolean │has_wiki            
+  ├───63               │Boolean │has_pages           
+  ├───64               │Number  │forks_count         
+  ├───65               │Null    │mirror_url          
+  ├───66               │Boolean │archived            
+  ├───67               │Number  │open_issues_count   
+  ├───2                │Object  │license             
+  │   ├───1            │Text    │key                 
+  │   ├───2            │Text    │name                
+  │   ├───3            │Text    │spdx_id             
+  │   ├───4            │Text    │url                 
+  │   └───5            │Text    │node_id             
+  ├───69               │Number  │forks               
+  ├───70               │Number  │open_issues         
+  ├───71               │Number  │watchers            
+  ├───72               │Text    │default_branch      
+  ├───73               │Number  │network_count       
+  └───74               │Number  │subscribers_count   
