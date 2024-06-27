@@ -9,6 +9,6 @@ import (
 
 func main() {
 	app.Run("jsontree", func(w *unison.Window) {
-		jsontree.New().Layout(w.Content())
+		w.Content().AddChild(jsontree.New().Layout())
 	})
 }
