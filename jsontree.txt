@@ -1,13 +1,13 @@
   ─────────────────────────────────────────────────────────
   │Number              │Type    │Key                 
   ─────────────────────────────────────────────────────────
-  │1                   │Object  │root_container      
+  │1                   │Object  │root (74)           
   ├───1                │Number  │id                  
   ├───2                │Text    │node_id             
   ├───3                │Text    │name                
   ├───4                │Text    │full_name           
   ├───5                │Boolean │private             
-  ├───2                │Object  │owner               
+  ├───2                │Object  │ (18)               
   │   ├───1            │Text    │login               
   │   ├───2            │Number  │id                  
   │   ├───3            │Text    │node_id             
@@ -87,7 +87,7 @@
   ├───65               │Null    │mirror_url          
   ├───66               │Boolean │archived            
   ├───67               │Number  │open_issues_count   
-  ├───2                │Object  │license             
+  ├───2                │Object  │ (5)                
   │   ├───1            │Text    │key                 
   │   ├───2            │Text    │name                
   │   ├───3            │Text    │spdx_id             
